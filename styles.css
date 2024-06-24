@@ -67,3 +67,17 @@ footer .social-media a img {
     max-height: 30px;
     margin: 0 10px;
 }
+
+header {
+    background-color: #0044cc; /* Bleu foncé */
+}
+
+.hero .overlay {
+    background: rgba(0, 0, 255, 0.5); /* Bleu avec transparence */
+}
+
+footer {
+    background-color: #ffcc00; /* Jaune */
+    color: #0044cc; /* Bleu foncé */
+}
+
